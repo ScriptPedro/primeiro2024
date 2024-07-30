@@ -1,0 +1,11 @@
+.perfil {
+    display: flex;
+    align-items: center;
+  }
+  
+  .perfil img {
+    width: 50px; 
+    height: auto; 
+    margin-left: 10px; 
+  }
+  
